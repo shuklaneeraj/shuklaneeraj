@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shuklaneeraj
-- 👀 I’m interested in ...Working on Salesforce, Java, JS, NodeJS, And having a coffee
-- 🌱 I’m currently learning ...Node JS
-- 💞️ I’m looking to collaborate on ...Node JS and Blockchain Projects
+- 👀 I’m interested in ...Data Science and it's applications
+- 🌱 I’m currently learning ...Machine Learning
+- 💞️ I’m looking to collaborate on ...Data Science Projects
 - 📫 How to reach me ...shuklaneeraj1999@gmail.com
 
 <!---
